@@ -29,20 +29,23 @@ body {
   font-size: 2em;
 }
 .todo-header input {
-  width: 92%;
+  width: 86%;
   border: none;
   border-radius: 5px;
-  height: 20px;
+  height: 30px;
   font-family: sans-serif;
+  padding-left: 10px;
 }
 .todo-header button {
-  color: white;
+  height: 30px;
+  width: 50px;
+  color: rgb(255, 255, 255);
   border: none;
-  border-radius: 50%;
+  border-radius:15%;
   cursor: pointer;
-  padding: 5px;
   font-family: sans-serif;
-  background-color: rgb(18, 223, 154);
+  font-size: 14px;
+  background-color: rgb(86, 153, 153);
 }
 .todo-container ul {
   list-style: none;
@@ -71,7 +74,6 @@ body {
 .todo-list-item button {
   color: white;
   border: none;
-  border-radius: 5px;
   cursor: pointer;
   padding: 5px;
   font-family: sans-serif;

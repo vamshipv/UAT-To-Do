@@ -1,0 +1,4 @@
+Connection with MongoDb - Create a Model and call the save from index.js - document model will be created and the data
+will be displayed in MongoDb Cluster, check for DB name and access - Network option if connection is not working 
+
+Connection String - Check for proper connection string and also password for it. 
