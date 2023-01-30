@@ -1,6 +1,7 @@
 {
   "name": "uat-to-do",
   "version": "1.0.0",
+  "homepage": "https://vamshipv.github.io/UAT-To-Do",
   "description": "UAT Co",
   "main": "index.js",
   "scripts": {
